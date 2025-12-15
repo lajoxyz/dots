@@ -1,2 +1,2 @@
-Dot Files for Mac, Linux, and WSL
-=======
+
+# Dot Files for Mac, Linux, and WSL
