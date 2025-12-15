@@ -223,7 +223,7 @@ return {
     vim.list_extend(ensure_installed, {
       "stylua", -- Lua formatter
       -- "black", -- Python formatter
-      "isort", -- Python formatter
+      -- "isort", -- Python formatter
       "prettierd", -- Js / typescript formatter
     })
     require("mason-tool-installer").setup({ ensure_installed = ensure_installed })
